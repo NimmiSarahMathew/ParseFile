@@ -6,4 +6,5 @@ A simple project, in Kotlin, to parse a P12 File, showcasing the use of Dagger a
   * Second Fragment displays the details of each entry
   
 ** Makes use of a ViewModel to handle configuration changes seamlessly.
+
 ** Sample app to understand concept of Dependency Injection using Dagger
